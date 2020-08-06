@@ -7,11 +7,11 @@ For example we know all problem of an envrionement and doom need to find in an e
 
 In big training during the game
 
-<h1>One missile</h1>
+<h1>One missile and training</h1>
 
 ![1](https://user-images.githubusercontent.com/54853371/89565217-8cbc7180-d81e-11ea-9471-05edd655941c.gif)
 
-<h1>Fourth missiles</h1>
+<h1>Fourth missiles  and training</h1>
 
 ![2](https://user-images.githubusercontent.com/54853371/89565325-aeb5f400-d81e-11ea-8a7e-f92e5ddbfc56.gif)
 
