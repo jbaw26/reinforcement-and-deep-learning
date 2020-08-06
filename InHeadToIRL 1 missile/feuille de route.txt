@@ -1,0 +1,33 @@
+-----------------------------------------
+faudrait: trouver un truk ou on peut simuler de vrai données qui ressemblent aux 1
+-----------------------------------------
+
+
+1)
+bon passe dans irl
+
+
+1.1)
+1) avant 2) faire les 4 missiles
+2) sans in head
+
+1.1)
+in head (faire avec missile qui va dans tous les sens mais de droite 
+	(de doite va en bas, haut, gauche, bas voir dia))
+
+
+1.0)
+dk gros
+faire les departs de missiles random qui pop random
+comme ca on enleve le coté on connait la position !
+
+   1            1
+1  0  1        1  0  1
+   1              1
+
+
+
+
+
+ensuite 2)
+puis modif ou trouver "faudrait" mais faire 1) se concentrer sur ca.
