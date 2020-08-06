@@ -11,9 +11,13 @@ In big training during the game
 
 ![1](https://user-images.githubusercontent.com/54853371/89565217-8cbc7180-d81e-11ea-9471-05edd655941c.gif)
 
+left game, right in training
+
 <h1>Fourth missiles  and training</h1>
 
 ![3](https://user-images.githubusercontent.com/54853371/89565381-c7260e80-d81e-11ea-96a7-28844278cd61.gif)
+
+left game, right in training
 
 <h1>Irl and In head</h1>
 
