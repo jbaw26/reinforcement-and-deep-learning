@@ -13,12 +13,15 @@ In big training during the game
 
 <h1>Fourth missiles  and training</h1>
 
-![2](https://user-images.githubusercontent.com/54853371/89565325-aeb5f400-d81e-11ea-8a7e-f92e5ddbfc56.gif)
-
-<h1>Training</h1>
-
 ![3](https://user-images.githubusercontent.com/54853371/89565381-c7260e80-d81e-11ea-96a7-28844278cd61.gif)
+
+<h1>Irl and In head</h1>
+
 ![4](https://user-images.githubusercontent.com/54853371/89565434-e02ebf80-d81e-11ea-8bad-920e4e614e4b.gif)
+
+black = training
+
+
 
 <h1>Without training irl</h1>
 
