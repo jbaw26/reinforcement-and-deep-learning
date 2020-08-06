@@ -5,6 +5,6 @@ at each turn the missiles change and he learns the new configuration a bit like 
 
 For example we know all problem of an envrionement and doom need to find in an express time a new solution of the problem
 
-
+In big training during the game
 
 <h1>One missile</h1>
