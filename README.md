@@ -25,6 +25,8 @@ left game, right in training
 
 black = training
 
+missile at each turn are modificate randomly
+
 
 
 <h1>Without training irl</h1>
