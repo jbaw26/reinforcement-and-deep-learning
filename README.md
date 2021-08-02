@@ -19,14 +19,6 @@ left game, right in training
 
 left game, right in training
 
-<h1>Irl and In head</h1>
-
-![4](https://user-images.githubusercontent.com/54853371/89565434-e02ebf80-d81e-11ea-8bad-920e4e614e4b.gif)
-
-black = training
-
-missile at each turn are modificate randomly
-
 
 
 <h1>Without training irl</h1>
